@@ -1,0 +1,841 @@
+
+
+
+.container{
+    width: 100%;
+    height: 1000px;
+}
+
+body{
+    -font-headline: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin:0%;
+}
+.mainpic{
+    width: 100%;
+}
+.discord{
+    width: 137px;
+    position: relative;
+    top: -603px;
+    margin-left: 167px;
+    cursor: pointer;
+}
+.down{
+    font-size: 16px;
+    font-family: whitney;
+    font-weight: 600;
+    margin-top: -628px;
+    margin-left: 517px;
+    color: #fff;
+    cursor: pointer;
+}
+.down:hover{
+    text-decoration: underline;
+}
+.nitro{
+   
+    color: #fff;
+    font-size: 16px;
+    font-family:whitney;
+    font-weight: 600;
+    margin-top: -37px;
+    margin-left: 625px;
+    cursor: pointer;
+
+}
+.nitro:hover{
+    text-decoration: underline;
+}
+.discover{
+    color: #fff;
+    font-size: 16px;
+    font-family:whitney;
+    font-weight: 600;
+    margin-top: -37px;
+    margin-left: 701px;
+    cursor: pointer;
+
+}
+.discover:hover{
+    text-decoration: underline;
+}
+.safety{
+    color: #fff;
+    font-size: 16px;
+    font-family:whitney;
+    font-weight: 600;
+    margin-top: -37px;
+    margin-left: 802px;
+    cursor: pointer;
+}
+.safety:hover{
+    text-decoration: underline;
+}
+.support{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney;
+    font-weight: 600;
+    margin-top: -37px;
+    margin-left: 885px;
+    cursor: pointer;
+}
+.support:hover{
+    text-decoration: underline;
+}
+.blog{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney;
+    font-weight: 600;
+    margin-top: -37px;
+    margin-left: 981px;
+    cursor: pointer;
+
+}
+.blog:hover{
+    text-decoration: underline;
+}
+.career{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney;
+    font-weight: 600;
+    margin-top: -36px;
+    margin-left: 1053px;
+    cursor: pointer;
+}
+.career:hover{
+    text-decoration: underline;
+}
+.imagine{
+    color: #fff;
+    font-size: 56px;
+    margin-top: 151px;
+    margin-left: 407px;
+    font-family: Ginto;
+    font-weight: 700;
+    font-family: Ginto-Nord;
+  }
+  
+@font-face {
+    font-family: Ginto-Nord;
+    src: url(./font/Ginto-Nord/Ginto-Nord-700.woff2);
+}
+@font-face{
+    font-family: whitney;
+    src: url(./font/whitney/Whitney-600.woff);
+}
+
+.login{
+    
+    font-size: 13px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 1285px;
+    border-radius: 33px;
+    border-color: #fff;
+    background-color: #fff;
+    position: relative;
+    top: -312px;
+    padding-top: 9px;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-bottom: 9px;
+    cursor: pointer;
+}
+.login:hover{
+    color: #5865f2;
+}
+
+.headchar{
+    color: #fff;
+    width: 799px;
+    font-family: whitney100;
+    font-size: 21px;
+    margin-top: -64px;
+    margin-left: 375px;
+    line-height: 33px;
+}
+@font-face{
+    font-family: whitney100;
+    src: url(./font/Whitney/Whitney-400.woff);
+}
+
+.downbtn{
+    color: black;
+    font-family: whitney200;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-left: 454px;
+    border-radius: 88px;
+    border-color: #fff;
+    background-color: #fff;
+    padding-top: 12px;
+    padding-right: 33px;
+    padding-left: 53px;
+    padding-bottom: 12px;
+    cursor: pointer;
+}
+.downbtn:hover{
+    color: #5865f2;
+}
+@font-face{
+    font-family: whitney200;
+    src: url(./font/Whitney/Whitney-500.woff);
+}
+.downsymb{
+    width: 28px;
+    position: relative;
+    top: 5px;
+    margin-left: -281px;
+
+}
+.downsymb:hover{
+    background-color: #5865f2;
+}
+.openbtn{
+    color: #fff;
+    font-family: whitney200;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-left: 268px;
+    border-radius: 88px;
+    border-color: black;
+    background-color: black;
+    padding-top: 12px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 12px;
+    cursor: pointer;
+
+}
+.openbtn:hover{
+    background-color: #232723;
+}
+
+
+
+.middle1{
+    width: 100%;
+    height: 83%;
+    background-color: #fff;
+
+
+}
+.middleimg{
+    width: 637px;
+    margin-top: 260px;
+    margin-left: 180px;
+    
+}
+@font-face{
+    font-family: ginto700;
+    src: url(./font/Ginto/Ginto-700.woff);
+}
+
+.middleprg1{
+    width: 376px;
+    color: black;
+    font-size: 47px;
+    font-family: ginto700;
+    margin-top: -390px;
+    margin-left: 975px;
+    line-height: 57px;
+
+
+}
+.middleprg2{
+    width: 362px;
+    color: black;
+    font-size: 20px;
+    font-family: whitney100;
+    margin-top: -28px;
+    margin-left: 975px;
+    line-height: 33px;
+    
+
+}
+.middle2{
+    width: 100%;
+    height: 682px;
+    background-color: #F6F6F6;
+
+}
+.middle2prg1{  width: 376px;
+    width: 376px;
+    color: black;
+    font-size: 48px;
+    font-family: ginto700;
+    margin-left: 169px;
+    line-height: 120%;
+    position: relative;
+    top: 201px;
+}
+
+.middle2prg2{
+    width: 362px;
+    color: black;
+    font-size: 20px;
+    font-family: whitney100;
+    margin-left: 169px;
+    line-height: 33px;
+    position: relative;
+    top: 177px
+
+}
+.middle2img{
+    width: 667px;
+    margin-top: -215px;
+    margin-left: 653px;
+
+}
+
+
+.middle3{
+    width: 100%;
+    height: 687px;
+    background-color: #fff;
+
+}
+.middle3img{
+    width: 625px;
+    margin-top: 111px;
+    margin-left: 154px;
+}
+.middle3prg1{
+    width: 376px;
+    color: black;
+    font-size: 48px;
+    font-family: ginto700;
+    margin-left: 970px;
+    line-height: 120%;
+    position: relative;
+    top: -402px;
+}
+.middle3prg2{
+    width: 383px;
+    color: black;
+    font-size: 20px;
+    font-family: whitney100;
+    margin-left: 970px;
+    line-height: 33px;
+    position: relative;
+    top: -427px;
+
+
+}
+.middle4{
+    width: 100%;
+    height: 1324px;
+    background-color:  #F6F6F6;
+    position: relative;
+    top: 29px;
+
+}
+@font-face{
+    font-family: ginto4;
+    src: url(./font/Ginto-Nord/Ginto-Nord-700.woff);
+}
+.middle4prg1{
+    font-family: ginto4;
+    font-size: 40px;
+    margin-left: 293px;
+    position: relative;
+    top: 107px;
+
+}
+.middle4prg2{
+    width: 939px;
+    color: black;
+    font-size: 20px;
+    font-family: whitney100;
+    margin-left: 295px;
+    line-height: 33px;
+    position: relative;
+    top: 87px
+}
+.middle4img1{
+    width: 1119px;
+    margin-top: 152px;
+    margin-left: 190px;
+
+}
+.middle4img2{
+    width: 584px;
+    margin-top: 101px;
+    margin-left: 447px;
+}
+.middle4prg3{
+    width: 457px;
+    color: black;
+    font-size: 32px;
+    font-family: ginto700;
+    margin-left: 537px;
+    line-height: 120%;
+    position: relative;
+    top: -61px;
+
+}
+.middle4btn{
+    color: #fff;
+    font-family: whitney200;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-left: 607px;
+    border-radius: 88px;
+    border-color: #5865f2;
+    background-color: #5865f2;
+    padding-top: 12px;
+    padding-right: 31px;
+    padding-left: 51px;
+    padding-bottom: 12px;
+    cursor: pointer;
+    position: relative;
+    top: -55px;
+}
+.middle4btn:hover{
+    background-color: #616df3;
+    border-color:#616df3 ;
+}
+.middle4btndown{
+    width: 26px;
+    position: relative;
+    top: -47px;
+    margin-left: -277px;
+
+}
+.middle4btndown:hover{
+    background-color: #6379db;
+    border-color:#6379db ;
+    
+}
+.footer{
+    width: 100%;
+    height: 506px;
+    background-color: #232723;
+
+}
+.footprg1{
+    color: #5865f2;
+    font-family: Ginto-Nord;
+    font-size: 32px;
+    position: relative;
+    top: 74px;
+    margin-left: 170px;
+    line-height: 31px;
+}
+.usflag{
+    width: 34px;
+    margin-top: 60px;
+    cursor: pointer;
+    margin-left: 165px;
+
+}
+.countrys{
+    width: 939px;
+    color: #fff;
+    font-size: 14px;
+    font-family: whitney100;
+    margin-left: 203px;
+    line-height: 33px;
+    position: relative;
+    top: -47px;
+    cursor: pointer;
+
+}
+.sc{
+    width: 179px;
+    margin-left: 163px;
+    position: relative;
+    top: -48px;
+
+}
+.product{
+    color: #5865f2;
+    font-size: 16px;
+    font-family: whitney100;
+    margin-left: 570px;
+    line-height: 33px;
+    position: relative;
+    top: -216px;
+    cursor: pointer;
+}
+.product:hover{
+    text-decoration: underline;
+}
+.download{
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 570px;
+    position: relative;
+    top: -218px;
+
+}
+.download:hover{
+    text-decoration: underline;
+}
+.nitr{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 28px;
+    margin-left: 570px;
+    position: relative;
+    top: -218px;cursor: pointer;
+
+}
+.nitr:hover{
+    text-decoration: underline;
+}
+.status{
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 4px;
+    margin-left: 570px;
+    position: relative;
+    top: -218px;
+}
+.status:hover{
+    text-decoration: underline;
+}
+.company{
+    color: #5865f2;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: whitney100;
+    margin-left: 770px;
+    line-height: 33px;
+    position: relative;
+    top: -349px;
+
+}
+.company:hover{
+    text-decoration: underline;
+}
+.about{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 770px;
+    position: relative;
+    top: -350px;
+    cursor: pointer;
+
+}
+.about:hover{
+    text-decoration: underline;
+}
+.jobs{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 28px;
+    margin-left: 770px;
+    position: relative;
+    top: -350px;
+    cursor: pointer;
+
+}
+.jobs:hover{
+    text-decoration: underline;
+}
+.branding{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: -10px;
+    margin-left: 770px;
+    position: relative;
+    top: -356px;
+    cursor: pointer;
+}
+.branding:hover{
+    text-decoration: underline;
+}
+.news{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: -10px;
+    margin-left: 770px;
+    position: relative;
+    top: -360px;
+    cursor: pointer;
+
+}
+.news:hover{
+    text-decoration: underline;
+}
+.resource{
+    color: #5865f2;
+    font-size: 16px;
+    font-family: whitney100;
+    margin-left: 975px;
+    line-height: 33px;
+    position: relative;
+    top: -534px;
+    cursor: pointer;
+
+}
+.resource:hover{
+    text-decoration: underline;
+}
+.college{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -536px;
+    cursor: pointer;
+}
+.college:hover{
+    text-decoration: underline;
+}
+.suppor{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -524px;
+    cursor: pointer;
+
+}
+.suppor:hover{
+    text-decoration: underline;
+}
+.safet{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -509px;
+    cursor: pointer;
+
+}
+.safet:hover{
+    text-decoration: underline;
+}
+.blg{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -493px;
+    cursor: pointer;
+}
+.blg:hover{
+    text-decoration: underline;
+}
+.feedback{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -477px;
+    cursor: pointer;
+
+}
+.feedback:hover{
+    text-decoration: underline;
+}
+.develop{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -462px;
+    cursor: pointer;
+
+}
+.develop:hover{
+    text-decoration: underline;
+}
+.stream{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 975px;
+    position: relative;
+    top: -446px;
+    cursor: pointer;
+}
+.stream:hover{
+    text-decoration: underline;
+}
+.poli{
+    color: #5865f2;
+    font-size: 16px;
+    font-family: whitney100;
+    margin-left: 1181px;
+    line-height: 33px;
+    position: relative;
+    top: -717px;
+    cursor: pointer;
+
+}
+.poli:hover{
+    text-decoration: underline;
+}
+.terms{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+}
+.terms:hover{
+    text-decoration: underline;
+}
+.privacy{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 24px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+}
+.privacy:hover{
+    text-decoration: underline;
+}
+.cookie{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 8px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+}
+.cookie:hover{
+    text-decoration: underline;
+}
+.guild{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 33px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+}
+.guild:hover{
+    text-decoration: underline;
+}
+.ack{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+}
+.ack:hover{
+    text-decoration: underline;
+}
+.lic{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 36px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+}
+.lic:hover{
+    text-decoration: underline;
+}
+.moderation{
+    color: #fff;
+    font-size: 16px;
+    font-family: whitney100;
+    line-height: 3px;
+    margin-left: 1181px;
+    position: relative;
+    top: -718px;
+    cursor: pointer;
+
+
+}
+.moderation:hover{
+    text-decoration: underline;
+}
+.vara{
+    width: 76%;
+    height: 1px;
+    background-color: #5865f2;
+    margin-top: -682px;
+    margin-left: 162px;
+    padding-left: 20px;
+}
+.embfoot{
+    color: rgb(255, 255, 255);
+    width: 137px;
+    position: relative;
+    top: 10px;
+    margin-left: 164px;
+    cursor: pointer;
+    
+}
+.signup{
+    color: #fff;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 1266px;
+    border-radius: 33px;
+    border-color: #5865f2;
+    background-color: #5865f2;
+    position: relative;
+    top: -26px;
+    padding-top: 9px;
+    padding-right: 14px;
+    padding-left: 14px;
+    padding-bottom: 9px;
+    cursor: pointer;
+
+}
+.signup:hover{
+    background-color: #616df3;
+}
+
+
+
+
+
+
+   
