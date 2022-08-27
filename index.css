@@ -7,7 +7,7 @@
 }
 
 body{
-    -font-headline: "Ginto Nord","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
     margin:0%;
 }
 .mainpic{
@@ -22,7 +22,8 @@ body{
 }
 .down{
     font-size: 16px;
-    font-family: whitney1;
+    font-family: whitney1
+    ;
     font-weight: 600;
     margin-top: -628px;
     margin-left: 517px;
@@ -99,7 +100,7 @@ body{
 .career{
     color: #fff;
     font-size: 16px;
-    font-family:whitney1;
+    font-family:whitney100;
     font-weight: 600;
     margin-top: -36px;
     margin-left: 1053px;
