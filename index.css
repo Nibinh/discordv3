@@ -22,8 +22,7 @@ body{
 }
 .down{
     font-size: 16px;
-    font-family: whitney1
-    ;
+    font-family: whitney100 ;
     font-weight: 600;
     margin-top: -628px;
     margin-left: 517px;
@@ -37,7 +36,7 @@ body{
    
     color: #fff;
     font-size: 16px;
-    font-family:whitney1;
+    font-family:whitney100;
     font-weight: 600;
     margin-top: -37px;
     margin-left: 625px;
@@ -50,7 +49,7 @@ body{
 .discover{
     color: #fff;
     font-size: 16px;
-    font-family:whitney1;
+    font-family:whitney100;
     font-weight: 600;
     margin-top: -37px;
     margin-left: 701px;
@@ -63,7 +62,7 @@ body{
 .safety{
     color: #fff;
     font-size: 16px;
-    font-family:whitney1;
+    font-family:whitney100;
     font-weight: 600;
     margin-top: -37px;
     margin-left: 802px;
@@ -75,7 +74,7 @@ body{
 .support{
     color: #fff;
     font-size: 16px;
-    font-family: whitney1;
+    font-family: whitney100;
     font-weight: 600;
     margin-top: -37px;
     margin-left: 885px;
